@@ -1,8 +1,17 @@
-## dotfiles
-My Dot files 
+# Minimal Setup
+
+My Minimal Comfy SetUp
 
 ## Wallpaper
-<img src='wallpapers/debian.png'>
+
+![alt text](./r-unix/1.png) 
+
+
+![alt text](r-unix/2.png)
+
+![alt text](r-unix/3.png)
+
+![alt text](r-unix/4.png)
 
 
  
